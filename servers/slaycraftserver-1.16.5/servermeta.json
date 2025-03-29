@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///D:/Documents/Helios%20launcher/Nebula/test/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "slaycraftserver (Minecraft 1.16.5)",
+    "description": "slaycraftserver Running Minecraft 1.16.5 (Forge v36.2.34)",
+    "icon": "",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "1355485678258884709",
+      "largeImageText": "slaycraftserver-1_16_5",
+      "largeImageKey": "slaycraftserver-1_16_5"
+    },
+    "mainServer": true,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "36.2.34"
+  },
+  "untrackedFiles": []
+}
